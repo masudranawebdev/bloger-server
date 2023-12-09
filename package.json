@@ -1,5 +1,5 @@
 {
-  "name": "dhaka-traffic-watch-by-citizen",
+  "name": "bloger-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Mukta rani das",
+  "author": "Masud Rana",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
